@@ -1,0 +1,133 @@
+{
+  "name": "Sulaiman Al‑Shabebi",
+  "role_ar": "مهندس ميكاترونكس",
+  "role_en": "Mechatronics Engineering",
+  "university_ar": "جامعة الأكاديميين العرب للعلوم والتكنولوجيا",
+  "university_en": "Arab Academicians University of Science and Technology",
+  "degree_ar": "بكالوريوس هندسة ميكاترونكس — 2025",
+  "degree_en": "B.Eng. Mechatronics Engineering — 2025",
+  "email": "a.a.alshapipi@gmail.com",
+  "phone": "778857221",
+  "location": "Sana'a, Yemen",
+  "exp_en": [
+    "Capstone – Multi-purpose Hexapod Robot",
+    "Mechanical design in SolidWorks; assemblies; motion/interference checks.",
+    "Actuator & sensor sizing; controller integration (Raspberry Pi).",
+    "Prototype build and terrain testing; iterative improvements to stability and traction.",
+    "Technical documentation and presentations."
+  ],
+  "exp_ar": [
+    "مشروع التخرّج – روبوت سداسيّ الأقدام متعدد الأغراض",
+    "تصميم ميكانيكي بـ SolidWorks وتجميعات مع فحوصات الحركة/التداخل.",
+    "تحديد أحجام المشغّلات والحسّاسات وتكامل المتحكّم (Raspberry Pi).",
+    "بناء نموذج أولي واختبارات تضاريس مع تحسينات متكرّرة للثبات والجر.",
+    "توثيق تقني وعروض تقديمية."
+  ],
+  "skills_en": [
+    "SolidWorks (3D CAD, assemblies, drawings, motion/interference checks).",
+    "System design & integration (requirements → mech/elec design; basic loads/kinematics).",
+    "Prototyping & testing (builds, field trials, iterate on results).",
+    "Documentation & presentations (clear reports, structured slide decks).",
+    "Communication (Arabic native; English — beginner diploma).",
+    "Time management & teamwork.",
+    "Safety awareness in industrial/lab environments.",
+    "Microsoft Office (Word, PowerPoint, Excel) for reporting and analysis."
+  ],
+  "skills_ar": [
+    "SolidWorks (نمذجة ثلاثية الأبعاد، تجميعات، رسومات، فحوصات حركة/تداخل).",
+    "تصميم وتكامل الأنظمة (من المتطلبات إلى الميكانيك/الكهرباء؛ أحمال وحركيات أساسية).",
+    "نمذجة أولية واختبارات (تصنيع، تجارب ميدانية، تحسين تكراري).",
+    "توثيق وعروض (تقارير واضحة وشرائح منظّمة).",
+    "تواصل (العربية لغة أم؛ الإنجليزية — مستوى مبتدئ بشهادة).",
+    "إدارة الوقت والعمل الجماعي.",
+    "وعي بالسلامة في البيئات الصناعية والمختبرية.",
+    "حزمة Microsoft Office (وورد/بوربوينت/إكسل) للتقارير والتحليل."
+  ],
+  "edu_en": [
+    "B — Eng — Mechatronics Engineering, Arab Academics University — 2025",
+    "English Diploma LPM Institute — 2019",
+    "High school graduate with a GPA of (86 — 25 ) in the science stream — 2020"
+  ],
+  "edu_ar": [],
+  "profileImage": "assets/profile.jpg",
+  "reportFile": "assets/report.pdf",
+  "videos": [
+    "1",
+    "2",
+    "assets/1.mp4",
+    "assets/2.mp4"
+  ],
+  "social": [
+    {
+      "name": "Email",
+      "url": "mailto:a.a.alshapipi@gmail.com"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://wa.me/967778857221"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/username"
+    }
+  ],
+  "objective_en": "Entry-level Mechatronics engineer targeting automation/PLC roles. Applies skills in CAD (SolidWorks), control systems, and process optimization; comfortable with on‑site testing and rapid iterations.",
+  "objective_ar": "مهندس ميكاترونكس مبتدئ يستهدف أدوار الأتمتة / PLC . يطبق مهاراته في CAD (SolidWorks) ، وأنظمة التحكم، وتحسين العمليات؛\nومعتاد على الاختبارات الميدانية والتكرار السريع.",
+  "mini_ar": [
+    "أردوينو: قراءة الحساسات، تحكّم المحرّكات، اتصال تسلسلي؛ نمذجة سريعة.",
+    "المتحكمات المنطقية PLC: منطق سلمي أساسي (تشغيل/إيقاف)، خرائط I/O، إنترلوكات بسيطة.",
+    "LabVIEW: اقتناء بيانات ولوحات مراقبة.",
+    "MATLAB: محاكاة تحكم أولية وتحليل بيانات."
+  ],
+  "mini_en": [
+    "Arduino: sensor reading, motor control, serial I/O; rapid prototyping.",
+    "PLC: basic ladder logic (start/stop), I/O mapping, simple interlocks.",
+    "LabVIEW: data acquisition and monitoring dashboards.",
+    "MATLAB: preliminary control simulations and data analysis."
+  ],
+  "site_en": [
+    "Hizyaz Power Generation Station — generation/distribution basics, protection systems, site safety.",
+    "Amran Cement Plant — heavy production lines, motors & control systems, material handling."
+  ],
+  "abilities_en": [
+    "System design & integration across mech/elec domains",
+    "CAD (SolidWorks) assemblies, motion/interference checks",
+    "Sensor/actuator selection and sizing",
+    "Rapid prototyping and field testing",
+    "Data analysis & basic control simulations (MATLAB)",
+    "Lab/industrial safety awareness",
+    "Clear technical writing and presentations",
+    "Time management & teamwork"
+  ],
+  "site_ar": [
+    "محطة توليد حزيز — أساسيات التوليد/التوزيع، أنظمة الحماية، وسلامة الموقع.",
+    "مصنع إسمنت عمران — خطوط إنتاج ثقيلة، محركات وأنظمة تحكم، ومناولة المواد."
+  ],
+  "abilities_ar": [
+    "تصميم وتكامل الأنظمة بين الميكانيك والكهرباء",
+    "تجميعات CAD في SolidWorks وفحوصات الحركة/التداخل",
+    "اختيار وتحديد أحجام الحساسات والمشغلات",
+    "نمذجة أولية سريعة واختبارات ميدانية",
+    "تحليل بيانات ومحاكاة تحكم أساسية (MATLAB)",
+    "وعي بالسلامة في البيئات الصناعية والمختبرية",
+    "كتابة تقنية واضحة وعروض تقديمية",
+    "إدارة الوقت والعمل الجماعي"
+  ],
+  "proj_bul_en": [
+    "Translated high-level requirements into a coherent hexapod architecture considering loads and kinematics.",
+    "Planned and executed terrain trials; iterated to improve stability and traction.",
+    "Integrated Raspberry Pi with selected sensors/actuators to validate control concepts.",
+    "Produced structured technical documentation and stakeholder-ready slide decks.",
+    "Coordinated tasks within a small team; delivered milestones on schedule."
+  ],
+  "proj_bul_ar": [
+    "تحويل متطلبات عليا إلى هيكل تصميمي متماسك لروبوت سداسي مع مراعاة الأحمال والحركيات.",
+    "تخطيط وتنفيذ تجارب على التضاريس مع تحسينات تكرارية للثبات والجر.",
+    "تكامل Raspberry Pi مع الحساسات والمشغلات المختارة للتحقق من مفاهيم التحكم.",
+    "إعداد توثيق تقني منظّم وعروض تقديمية جاهزة لأصحاب المصلحة.",
+    "تنسيق المهام ضمن فريق صغير وتحقيق المعالم الزمنية في موعدها."
+  ],
+  "proj_title_en": "The Intelligent Control of a Hexapod Spider Robot",
+  "proj_title_ar": "الروبوت العنكبوتي سداسي الأرجل ذو التحكم الذكي",
+  "cvFile": "assets/CV.pdf"
+}
